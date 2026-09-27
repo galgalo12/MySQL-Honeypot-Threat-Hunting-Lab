@@ -3,6 +3,11 @@
 > **An end-to-end cybersecurity lab focused on building, hardening, monitoring, detecting, hunting, investigating, and responding to real-world attacks against an internet-exposed MySQL server.**
 
 ---
+### Honeypot Architecture ### 
+
+
+<img width="1774" height="887" alt="ChatGPT Image Sep 27, 2026, 01_11_19 AM" src="https://github.com/user-attachments/assets/2fa8a78c-7767-401a-a9f7-40be74deed9d" />
+
 
 ## 🎯 Lab Overview
 
